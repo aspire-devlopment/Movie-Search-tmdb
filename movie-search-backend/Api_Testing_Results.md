@@ -140,15 +140,22 @@ The run emitted NuGet warning `NU1507`: central package management has two confi
 Screenshots below when you run the API locally.
 ### Swagger UI
 
-![alt text](image.png)
+![alt text](screenshots/image.png)
 
 ### Successful movie search in Swagger
 
-![alt text](image-1.png)
+![alt text](screenshots/image-1.png)
+![alt text](screenshots/image-4.png)
+
+### Successful Get movies  Videos
+![alt text](screenshots/image-5.png)
+
+### Successful Tv Series Search
+![alt text](screenshots/image-6.png)
 
 ### Validation response
 
-![alt text](image-2.png)
+![alt text](screenshots/image-2.png)
 
-![alt text](image-3.png)
+![alt text](screenshots/image-3.png)
 
